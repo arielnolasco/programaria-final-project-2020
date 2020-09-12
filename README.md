@@ -1,2 +1,2 @@
-# programaria-final-project-2020
+# programaria-adalovelace
 Projeto final do curso Online Eu ProgrAmo do Programaria, 2020.
